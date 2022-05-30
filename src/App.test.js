@@ -15,8 +15,8 @@ test('renders text', () => {
 });
 */
 
-test('renders Monkey', () => {
+test('renders text', () => {
   render(<App />);
-  const linkElement = screen.getByText(/Monkey/i);
+  const linkElement = screen.getByText(/Clio/i);
   expect(linkElement).toBeInTheDocument();
 });

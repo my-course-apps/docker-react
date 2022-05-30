@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Monkey!
+          Clio kitty!
         </a>
       </header>
     </div>
